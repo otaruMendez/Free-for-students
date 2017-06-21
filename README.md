@@ -16,7 +16,6 @@ This list does not include software made available in bulk to educational instit
 - [Microsoft Imagine] (https://catalog.imagine.microsoft.com/en-us/catalog)
 - [NI LabVIEW Student Edition] (http://ni.com/labviewse) - visual programming environment
 - [Axure] (http://axure.com/edu) - design prototyping tool
-- [Sqlyog Community Version](https://github.com/webyog/sqlyog-community/wiki/Downloads) - Database Client
 
 ## Non-Dev
 - [ANSYS Free Simulation Software] (http://ansys.com/Products/AcademicANSYS-Student)
